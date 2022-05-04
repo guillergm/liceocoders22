@@ -1,0 +1,18 @@
+COMMIT
+
+El comando COMMIT define el final de una transacción ejecutada con éxito.
+
+
+FETCH
+
+Fetch es el nombre de una nueva API para Javascript con la cuál podemos realizar peticiones HTTP de forma que el código sea un poco más sencillo.
+
+
+PULL
+
+El sistema pull hace referencia a un sistema que se ajusta en todo momento a la demanda. Esto quiere decir que no se produce nada hasta que no hay una demanda real del producto.
+
+
+PUSH
+
+La tecnología Push es una forma de comunicación en la que una aplicación servidora envía un mensaje a un cliente-consumidor. Es decir, es un mensaje que un servidor envía a una persona alertándolo de que tiene una información nueva
